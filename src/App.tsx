@@ -22,7 +22,7 @@ export function App() {
         </div>
         <div class="z-50 relative text-xs text-gray-500 text-right mt-2">
             <div>逃离塔科夫中的时间流逝速度为每秒 7 秒。</div>
-            <a href="https://github.com/adamburgess/tarkov-time">鸣潮启动</a>
+            <a href="https://space.bilibili.com/387198148">鸣潮启动</a>
         </div>
     </div>
 }
